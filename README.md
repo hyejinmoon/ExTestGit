@@ -7,7 +7,7 @@
 
  ```
  STS19_REST에서는 @RestController 를 통해 REST 방식을 구현하여 
-  리스트를 읽기, 쓰기, 수정, 삭제가 가능한 게시판 ccle을 생성하였다
+  리스트를 읽기, 쓰기, 수정, 삭제가 가능한 게시판 cycle을 생성하였다
   ```
 ---
 @RestController는 데이터를 *response*한다.
